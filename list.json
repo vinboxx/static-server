@@ -1,14 +1,14 @@
 [
     {
-        "id": "aa38fd9a-19cf-4521-9e4a-d435d4de8eb9d",
-        "name": "Webon CMS Plugin (Local)",
+        "id": "0038fd9a-19cf-4521-9e4a-d435d4de8eb9d",
+        "name": "Test Plugin (Local)",
         "placeHolder": "fullPage",
-        "resource": "http://localhost:8899/static/webon-cms-ui.js"
+        "resource": "https://localhost:8899/static/test-plugin.js"
     },
     {
-        "id": "bb38fd9a-19cf-4521-9e4a-d435d4de8eb9d",
-        "name": "Webon data migration Plugin (Local)",
+        "id": "aa38fd9a-19cf-4521-9e4a-d435d4de8eb9d",
+        "name": "Cool Plugin (Local)",
         "placeHolder": "fullPage",
-        "resource": "http://localhost:8899/static/webon-data-migration-ui.js"
+        "resource": "https://localhost:8899/static/cool-ui.js"
     }
 ]
